@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[federico]]></title>
         <description><![CDATA[federico]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/federico/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Mar 2016 19:21:53 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 15 Mar 2016 12:26:10 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/federico/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c6e648db-88cb-4c54-b9b9-324a4e190cb2.png">]]></description>
-            <link>undefined319d07d3-4606-401c-98c7-b00bdd930a8d/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b5a0fcef-3fdb-41ca-b0e8-8cd20f1adf48.jpg">]]></description>
+            <link>https://thegrid.ai/federico/319d07d3-4606-401c-98c7-b00bdd930a8d/index.html</link>
             <guid isPermaLink="false">319d07d3-4606-401c-98c7-b00bdd930a8d</guid>
-            <pubDate>Mon, 14 Mar 2016 19:21:52 GMT</pubDate>
+            <pubDate>Tue, 15 Mar 2016 12:25:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
